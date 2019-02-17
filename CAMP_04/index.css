@@ -1,0 +1,27 @@
+.navbar-brand navbar-default {
+    height: 800px;
+    width: 700px;
+    background: yellow;
+}
+
+body{
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.head{
+    background: ivory;
+}
+
+.enter{
+    color: black;
+    font-style: bold;
+    margin: auto;
+    height: 500px;
+    width: 1300px;
+    background-size: 1300px 500px;
+    background-image:url('images/2018-TOP5_pc_article.jpg');
+}
